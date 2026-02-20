@@ -3,8 +3,8 @@
 یادداشت‌های شخصی + داکیومنت کامل یادگیری **اوبونتو لینوکس** به زبان فارسی
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![Stars](https://img.shields.io/github/stars/YOUR-USERNAME/ubuntu-learning-notes?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/YOUR-USERNAME/ubuntu-learning-notes)
+![Stars](https://img.shields.io/github/stars/Rezomoon/ubuntu-learning-notes?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/Rezomoon/ubuntu-learning-notes)
 
 ## 🎯 درباره پروژه
 این ریپو یک **منبع باز و مشارکتی** است که:
@@ -30,4 +30,4 @@
 ## 🚀 نحوه استفاده
 1. ریپو رو کلون کن:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/ubuntu-learning-notes.git
+   git clone https://github.com/Rezomoon/ubuntu-learning-notes.git

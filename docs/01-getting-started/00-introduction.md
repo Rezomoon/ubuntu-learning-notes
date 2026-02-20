@@ -104,7 +104,7 @@ etc                media              sbin  tmp
 
 
 
-[!WARNING]
+
 ## به هیچ عنوان دستشون نزنید :D
 
 **etc**
