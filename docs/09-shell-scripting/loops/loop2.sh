@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for p in $* 
+do 
+	echo $p
+done
