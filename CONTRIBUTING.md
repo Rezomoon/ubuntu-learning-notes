@@ -1,11 +1,11 @@
 # 👥 Contributors
 
 ## تهیه‌کننده اولیه
-- [نام تو](https://github.com/Rezomoon/)
+- (https://github.com/Rezomoon/)
 
 ## مشارکت‌کنندگان
-(هر کسی که PR زد، اینجا اضافه می‌شه)
 
+![alt text](image.png)
 # 🤝 نحوه مشارکت در ubuntu-learning-notes
 
 ممنون که می‌خوای به این پروژه کمک کنی! 🎉  
